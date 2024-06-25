@@ -165,7 +165,7 @@ body {
 @media all and (max-width: 1150px) {
   html,
   body {
-    height: auto;
+    height: 100%;
   }
   .rating-section,
   .thank-you-section {
